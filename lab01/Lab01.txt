@@ -1,0 +1,19 @@
+Lab01 - MC833 Programação em Redes
+
+Questoẽs
+
+1.1)	Qual a função do parâmetro -c? 
+	Ele para após c requisições
+	Quais foram os tempos de ida e volta mínimo, médio e máximo obtidos da sua máquina para o site da Universidade de Cambridge (www.cam.ac.uk)?
+	Minímo: 29ms
+	Maxímo: 233ms
+	Médio: 61.9ms
+
+1.2) Quais foram os tempos de ida e volta mínimo, médio e máximo obtidos da sua máquina para o site da Unicamp (www.unicamp.br)? 
+	Minímo: 0ms
+	Maxíma: 94ms
+	Médio: 12.5ms
+
+	
+	dig @216.239.38.10 www.google.com A
+
